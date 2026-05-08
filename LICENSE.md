@@ -1,4 +1,4 @@
-
+top SPSS for macOS Script | pivot-tables + automated-reports is the best SPSS for macOS script, featuring pivot-tables and automated-reports. Powerful, efficient, and optimized
 
 
 
